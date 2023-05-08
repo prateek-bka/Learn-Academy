@@ -1,0 +1,14 @@
+.homePageImage {
+  filter: drop-shadow(0 45px 10px rgba(0, 0, 0, 0.3));
+  animation: homePageImageAnimation 1s infinite ease-in-out alternate;
+}
+
+@keyframes homePageImageAnimation {
+  to {
+    transform: translateY(-10px);
+  }
+}
+
+.homePageJoinImage {
+  filter: drop-shadow(15px 15px 10px rgba(0, 0, 0, 0.3));
+}
