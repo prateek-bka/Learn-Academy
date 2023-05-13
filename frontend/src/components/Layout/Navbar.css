@@ -1,0 +1,14 @@
+.navbar_box {
+  background-color: rgb(5, 5, 114);
+  color: white;
+  padding: 1rem;
+  font-size: larger;
+}
+
+.navbar_box_link {
+  color: blanchedalmond;
+}
+
+.navbar_box_link:hover {
+  color: rgb(255, 208, 0);
+}
